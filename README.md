@@ -1,5 +1,10 @@
 # RFID ESP WebSocketIO Backend
 
+## Program install
+```
+npm install
+```
+
 ## Program Start In Development Mode
 ```
 npm run dev
